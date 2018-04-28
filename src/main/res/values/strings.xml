@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="my_image">my image</string>
+    <string name="john_doe">John Doe</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="subheader">Subheader</string>
+    <string name="info_1">Info 1</string>
+    <string name="info_2">Info 2</string>
+    <string name="info_3">Info 3</string>
+    <string name="info_4">Info 4</string>
+    <string name="info_5">Info 5</string>
+    <string name="another_info1_1">Another Info1.1</string>
+    <string name="another_info1_2">Another Info1.2</string>
+    <string name="another_info1_3">Another Info1.3</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+</resources>
